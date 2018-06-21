@@ -1,0 +1,4 @@
+- centos6grub.cfg contains randomly listed kernels configuration.
+- 6.10 is the highest.
+- The script is working on the OS release number, Linux (6.x).. assuming one kernel per release, 6.1, 6.2, 6.x, and so on..
+- In the case of multiple kernels per RH release, we adjust the script to work on major.minor numbers (2.6.32-358) instead.
